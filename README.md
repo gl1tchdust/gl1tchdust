@@ -4,6 +4,7 @@ Application security engineer. API security, authorization testing, DevSecOps pi
 
 ## Repositories
 
+- [devsecops-pipeline-lab](https://github.com/gl1tchdust/devsecops-pipeline-lab) - a security toolchain in CI with custom Semgrep rules for BOLA, BFLA and mass assignment, scored against hand-labelled ground truth. Measured precision decides which rules are allowed to fail a build.
 <!-- filled in as each repo goes live -->
 
 ## Working with
